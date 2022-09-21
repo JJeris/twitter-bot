@@ -1,2 +1,2 @@
 # twitter-bot
-Twitter bot, whose purpose is not yet decided.
+This is a repo where I learn to use the Twitter API.
